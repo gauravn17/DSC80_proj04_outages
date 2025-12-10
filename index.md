@@ -74,7 +74,7 @@ Since **p = 0.918**, we **fail to reject the null hypothesis**.
 
 ### Missingness Permutation Test Plot (CAUSE_CATEGORY → Missing Customers)
 
-![Missingness Null Distribution](plot1.png)
+![Missingness Null Distribution](/DSC80_proj04_outages/plot1.png)
 
 ---
 
@@ -122,7 +122,7 @@ The difference is large in absolute value but statistically insignificant.
 
 ### Null Distribution of Difference in Means (severe weather – intentional attack)
 
-![Hypothesis Test Null Distribution](plot2.png)
+![Hypothesis Test Null Distribution](/DSC80_proj04_outages/plot2.png)
 
 ---
 
