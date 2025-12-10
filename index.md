@@ -1,4 +1,4 @@
-# 📊 Major U.S. Power Outage Analysis (2000–2016)
+# 📊 Major U.S. Power Outage Analysis 
 ### DSC 80 — Project 4  
 ### **Author:** Gaurav Nair  
 
@@ -74,7 +74,7 @@ Since **p = 0.918**, we **fail to reject the null hypothesis**.
 
 ### Missingness Permutation Test Plot (CAUSE_CATEGORY → Missing Customers)
 
-![Missingness Null Distribution](newplot.png)
+![Missingness Null Distribution](plot1.png)
 
 ---
 
@@ -122,7 +122,7 @@ The difference is large in absolute value but statistically insignificant.
 
 ### Null Distribution of Difference in Means (severe weather – intentional attack)
 
-![Hypothesis Test Null Distribution](newplot%20(1).png)
+![Hypothesis Test Null Distribution](plot2.png)
 
 ---
 
