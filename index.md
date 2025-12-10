@@ -72,6 +72,10 @@ Since **p = 0.918**, we **fail to reject the null hypothesis**.
 ➡️ Missingness **does not depend** on the cause of the outage.  
 ➡️ Evidence suggests **MCAR** with respect to cause category.
 
+### Missingness Permutation Test Plot (CAUSE_CATEGORY → Missing Customers)
+
+![Missingness Null Distribution](newplot.png)
+
 ---
 
 ### 3C — MCAR Test: Does missingness depend on MONTH?
@@ -115,6 +119,10 @@ The difference is large in absolute value but statistically insignificant.
 ### Interpretation:
 ➡️ We **fail to reject the null hypothesis**.  
 ➡️ No evidence that weather outages are significantly longer than intentional attacks.
+
+### Null Distribution of Difference in Means (severe weather – intentional attack)
+
+![Hypothesis Test Null Distribution](newplot%20(1).png)
 
 ---
 
